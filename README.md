@@ -17,6 +17,15 @@ This repository collects the Jupyter notebooks and selected research outputs dev
 
 This repository does **not** include data from the **Dutch web archive** due to copyright/access restrictions.
 
+## Data derivatives
+Research outputs are published on Zenodo: Povroznik, Nadezhda (2026) Rijksmuseum Web Presence in the Internet Archive: Research Datasets 1999–2025, https://zenodo.org/records/21134681
+
+## Reproducibility
+To reproduce the research process, the following steps are needed:
+1) clone the repository on GitHub or download the files (keep the structure of the folders as it is in the repo);
+2) download datasets published on Zenodo to the data folder;
+3) check the paths indicated in the notebooks, make sure you have the files in the right folders, and run the code.
+
 ## License
 - **Code (notebooks/scripts): MIT License** (see `LICENSE`)
 - **Documentation & original visualisations: CC BY 4.0** (see `LICENSE-CC-BY`)
